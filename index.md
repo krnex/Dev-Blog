@@ -10,7 +10,7 @@ You wake on the shore of what appears to be a deserted island, your skin cold to
 
 ### Where can I follow your progress?
 
-You can follow all progress at https://trello.com/b/t0RLRczz/game-systems. I may start a Dev VLOG at some point aswell.
+You can follow all progress at [Trello]https://trello.com/b/t0RLRczz/game-systems. I may start a Dev VLOG at some point aswell.
 
 ### Support or Contact
 
